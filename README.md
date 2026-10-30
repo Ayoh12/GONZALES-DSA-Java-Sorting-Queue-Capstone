@@ -123,4 +123,20 @@ algorithms. It provides a simple way to manage vehicle registration and parking 
 
 # Photos of the System
 
-**Main Menu**
+**Main Menu** 
+<img width="486" height="348" alt="image" src="https://github.com/user-attachments/assets/c83099b5-5acd-4469-ab35-0f6361888e60" />
+
+**Registering**
+<img width="462" height="145" alt="image" src="https://github.com/user-attachments/assets/0d5f2c29-dad0-40bd-aefc-bf63857790bd" />
+
+**Viewing of Waiting Queue** 
+<img width="417" height="167" alt="image" src="https://github.com/user-attachments/assets/fc122839-7f50-4d21-9928-637606cbdddb" />
+
+**Dequeue**
+<img width="380" height="200" alt="image" src="https://github.com/user-attachments/assets/35cc235f-ca77-41bf-b23c-6c5f0cb15df8" />
+
+**Bubble Sort**
+<img width="403" height="127" alt="image" src="https://github.com/user-attachments/assets/d8d2b2b5-1ef1-4fea-a4d8-1c7059cf2d9a" />
+
+**Insert Sort**
+<img width="402" height="122" alt="image" src="https://github.com/user-attachments/assets/9c7b1346-ff74-4a91-8f7a-35440b87e31c" />
